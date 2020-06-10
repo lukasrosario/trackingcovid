@@ -11,5 +11,5 @@
 #### [County Populations](https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_county_population_usafacts.csv)
 
 ## State Testing Data
-#### [Alaska](https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/covid-tests-dataset/data?orderBy=County)
 #### [Alabama (thanks Chip)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQL-Bxn4Q6_-72JkIMiyTpaHNV3pxMWIz-mjYAGc1muW4Oes6ecJ6RVk57Hr9scqJWsDE-tt2XYOH14/pubhtml?urp=gmail_link#)
+#### [Alaska](https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/covid-tests-dataset/data?orderBy=County)
